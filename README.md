@@ -1,5 +1,5 @@
 # DesignSystemCAWI
-
+<img src="https://gph.is/g/ZkPDxY4"/>
 ## Project setup
 ```
 npm install
