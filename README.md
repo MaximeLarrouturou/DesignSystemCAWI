@@ -1,5 +1,5 @@
 # DesignSystemCAWI
-<img src="https://giphy.com/embed/mYcWZ7cJw53jPdBZuq"/>
+<img src="src/assets/giphy.gif"/>
 ## Project setup
 ```
 npm install
